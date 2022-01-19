@@ -1,4 +1,4 @@
-# Es el FrontEnd del Back que está en Solidity en la red Rinkeby
+# Es el FrontEnd de la Dapp que está en la red Rinkeby
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
